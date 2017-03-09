@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1375724140 source:c:\users\adriano  de sousa\desktop\projetos_c\maior_numero\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1426987717 
+
+1375724148 c:\users\adriano  de sousa\desktop\projetos_c\maior_numero\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1375724148 
+
+1426987717 source:c:\users\adriano  de sousa\desktop\projetos_c\maior_numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:c:\users\adriano  de sousa\desktop\projetos_c\nova pasta\maior_numero\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\adriano  de sousa\desktop\projetos_c\nova pasta\maior_numero\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1426987717 source:c:\users\adriano  de sousa\desktop\projetos_c\nova pasta\maior_numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:/media/guest-E0FmE3/MULTIBOOT/projetos_c/Nova pasta/maior_numero/cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 /media/guest-E0FmE3/MULTIBOOT/projetos_c/Nova pasta/maior_numero/cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1426987718 source:/media/guest-E0FmE3/MULTIBOOT/projetos_c/Nova pasta/maior_numero/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
